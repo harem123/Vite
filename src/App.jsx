@@ -1,7 +1,6 @@
 import Landing from './Landing'
 import NaviBar from './NaviBar';
 import Atom from './Atom';
-import Table from './Table'
 import AutoTable from './AutoTable';
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 function App() {
